@@ -1,14 +1,3 @@
-<h2 align="left">Hi 👋! My name is Allan and I'm a front-end developer, from Brazil</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allanvinicius&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allanvinicius&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanviniciusdemoura/)](https://www.linkedin.com/in/allanviniciusdemoura/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/allanviniciusdm)](https://twitter.com/allanviniciusdm)
 [![Gmail Badge](https://img.shields.io/badge/-Contato-ed0d07?style=for-the-badge&labelColor=ed0d07&logo=gmail&logoColor=white&link=mailto:allanviniciosdemoura@gmail.com)](mailto:allanviniciosdemoura@gmail.com)
