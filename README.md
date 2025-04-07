@@ -3,6 +3,7 @@
 😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim.
 
 🌟 Informações Públicas
+
 Meu nome é Allan Vinícius (também conhecido(a) como Allan). Atualmente, moro em Alfenas, Brasil e meu objetivo é ajudar outros desenvolvedores a alcançar seus sonhos e metas. 🚀
 
 No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde 2017 venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝
