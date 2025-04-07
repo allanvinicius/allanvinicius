@@ -1,12 +1,11 @@
 👋 Olá, visitante!
+
 😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim.
 
 🌟 Informações Públicas
 Meu nome é Allan Vinícius (também conhecido(a) como Allan). Atualmente, moro em Alfenas, Brasil e meu objetivo é ajudar outros desenvolvedores a alcançar seus sonhos e metas. 🚀
 
-No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde [Ano] venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝
-
-Também realizo transmissões ao vivo de codificação 🎥, explorando novos conceitos e ensinando de forma interativa, promovendo o conceito de "aprender em público". Além disso, escrevo artigos e produzo vídeos, experiências que têm sido transformadoras na minha trajetória como desenvolvedor(a). ✍️📹
+No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde 2017 venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝
 
 📝 Informações Detalhadas
 
@@ -16,13 +15,11 @@ Também realizo transmissões ao vivo de codificação 🎥, explorando novos co
 
 📍 Localização: Alfenas - MG, Brasil
 
-💻 Stack: [Liste as tecnologias que você utiliza, por exemplo: PHP, Laravel, React, etc.]
+💻 Stack: React, Next, Typescript , Tailwind
 
-📚 Aprendizado Atual: [Tecnologias ou linguagens que você está estudando]
+📚 Aprendizado Atual: Sempre aprendendo sobre o front-end , porque cada dia tem coisas novas
 
-🎓 Formação: [Seu grau acadêmico ou cursos relevantes]
-
-🏆 Conquistas: [Prêmios ou reconhecimentos, se houver]
+🎓 Formação: Ciência da computação
 
 😎 Curiosidades sobre Mim
 
