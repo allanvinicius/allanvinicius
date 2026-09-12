@@ -38,6 +38,6 @@ I'm exploring the intersection between front-end engineering, motion, 3D and int
 
 ## Let's connect
 
-Portfolio
-LinkedIn
-X
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanviniciusdemoura/)](https://www.linkedin.com/in/allanviniciusdemoura/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/allanviniciusdm)](https://twitter.com/allanviniciusdm)
+[![Gmail Badge](https://img.shields.io/badge/-Contato-ed0d07?style=for-the-badge&labelColor=ed0d07&logo=gmail&logoColor=white&link=mailto:allanviniciusdev@gmail.com)](mailto:allanviniciusdev@gmail.com)
