@@ -1,49 +1,43 @@
-👋 Olá, visitante!
+# Hi, I'm Allan 👋
 
-😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim.
+Front-end Developer focused on building fast, scalable and interactive web experiences.
 
-🌟 Informações Públicas
+I have nearly 6 years of experience working with modern front-end technologies, combining traditional product development with Creative Development, motion and WebGL.
 
-Meu nome é Allan Vinícius (também conhecido(a) como Allan). Atualmente, moro em Alfenas, Brasil e meu objetivo é ajudar outros desenvolvedores a alcançar seus sonhos e metas. 🚀
+## What I work with
 
-No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde 2017 venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝
+**Front-end**
+React · Next.js · TypeScript · JavaScript · Tailwind CSS
 
-📝 Informações Detalhadas
+**Creative Development**
+Three.js · WebGL · GSAP · ScrollTrigger · GLSL
 
-👤 Nome: Allan Vinícius de Moura
+**Tools & Platforms**
+Sanity · Supabase · Prisma · Vercel · Git
 
-🎂 Idade: 27 anos
+## Selected Work
 
-📍 Localização: Alfenas - MG, Brasil
+### 911 GT3 RS — Digital Motion
+A scroll-driven WebGL experience exploring motion, interaction and 3D storytelling.
 
-💻 Stack: React, Next, Typescript , Tailwind
+Next.js · Three.js · WebGL · GSAP · GLSL
 
-📚 Aprendizado Atual: Sempre aprendendo sobre o front-end , porque cada dia tem coisas novas
+### ROAST
+An interactive coffee experience where users create their own flavor profile through notes, acidity and visual interactions.
 
-🎓 Formação: Ciência da computação
+Next.js · Three.js · GSAP · WebGL · Zustand
 
-😎 Curiosidades sobre Mim
+### Luxury Watchbox
+An interactive 3D product experience where motion and scroll become part of the product presentation.
 
-🎸 Sou apaixonado(a) por música e, ao longo dos anos, explorei diversos instrumentos e estilos.
+Next.js · Three.js · WebGL · GSAP · ScrollTrigger
 
-💡 Comecei a programar em 2017 e, desde então, venho me desafiando e aprendendo coisas novas.
+## Currently
 
-🤗 Acredito no poder da colaboração e estou sempre disposto(a) a ajudar quem busca evoluir na área de tecnologia.
+I'm exploring the intersection between front-end engineering, motion, 3D and interactive experiences while continuing to build scalable web products.
 
-🌐 Tenho experiência em diversos projetos, o que me proporcionou uma visão ampla do desenvolvimento.
+## Let's connect
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanviniciusdemoura/)](https://www.linkedin.com/in/allanviniciusdemoura/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/allanviniciusdm)](https://twitter.com/allanviniciusdm)
-[![Gmail Badge](https://img.shields.io/badge/-Contato-ed0d07?style=for-the-badge&labelColor=ed0d07&logo=gmail&logoColor=white&link=mailto:allanviniciusdev@gmail.com)](mailto:allanviniciusdev@gmail.com)
-<!--
-**allanvinicius/allanvinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Portfolio
+LinkedIn
+X
